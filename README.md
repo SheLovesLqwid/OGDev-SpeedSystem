@@ -3,6 +3,8 @@
 
 ⚠ **WARNING:** This script was originally developed by **OGDev Studios**. However, due to losing access to my original GitHub account, I had to create a new one and re-upload my work. **After creating my new account, I discovered that someone had stolen my script and falsely uploaded it as "Lumen-SpeedSystem."**  
 
+brother im not updating the file and all but just found out they copied everything :(
+
 Even though their upload **appears to be older**, it was posted while I was locked out of my original account. **Do NOT fall for this scam!** Their version also contains **hidden malware** that can compromise your server.  
 
 📌 **Join our official Discord for support & updates:** **[Click Here](https://discord.gg/uzVkdfK7Qm)**  
