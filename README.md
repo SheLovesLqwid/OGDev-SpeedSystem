@@ -32,24 +32,6 @@
 
 ---
 
-## **⚠ WARNING: DO NOT USE THE "LUMEN-STUDIOS" VERSION**  
-### ❌ **The stolen version of this script (Lumen-SpeedSystem) contains hidden malware.**  
-
-🚨 **The Truth Behind the Scam:**  
-- I originally wrote this script but **lost access to my old GitHub account**.  
-- After creating a new account and re-uploading my work, I discovered that **someone had stolen my script and uploaded it under a different name**.  
-- **Even though their repository has an earlier upload date, that’s because my original account was lost.**  
-- **Their version includes hidden malware** that could allow backdoor access to your server, steal sensitive data, or execute malicious commands.  
-
-🔹 **How to Check for Malware**  
-If you accidentally installed the "Lumen-SpeedSystem" version, follow these steps:  
-1. **Search your server files** for any suspicious `.lua` or `.dll` files.  
-2. **Look for obfuscated code** (random characters, base64 encoding).  
-3. **Monitor server logs** for unusual activity (unauthorized commands or IP connections).  
-4. **Completely remove the stolen script** and replace it with **OGDev-SpeedSystem** from the official source.  
-
----
-
 ## **⚙️ How It Works**  
 
 ### **🚧 Speed Zone Enforcement**  
