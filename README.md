@@ -91,9 +91,7 @@ ensure OGDev-SpeedSystem
 
 ---
 
-### **Final Message**  
-I appreciate the support from the FiveM community in fighting against stolen and malicious scripts. If you have any questions or concerns about the legitimacy of this script, feel free to reach out.  
+### **Final Message**    
 
-📌 **Join our official Discord for support & updates:** **[Our Discord](https://discord.gg/uzVkdfK7Qm)**  
+# 📌 **Join our official Discord for support & updates:** **[Our Discord](https://discord.gg/uzVkdfK7Qm)**  
 
-**Let’s keep FiveM development clean, fair, and secure!** 🔥🚀  
