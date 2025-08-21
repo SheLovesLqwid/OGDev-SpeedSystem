@@ -84,7 +84,6 @@ ensure OGDev-SpeedSystem
 👤 **Original Developer:** **OGDev Studios**
 🔗 **Official Repository:** *[Click Here](https://github.com/SheLovesLqwid/OGDev-SpeedSystem)*  
 
-⚠ **This script was stolen and falsely claimed by "Lumen Studios."**  
 
 ### 🚨 **How to Protect Yourself:**  
 - **Only download from OGDev Studios' official GitHub.**  
